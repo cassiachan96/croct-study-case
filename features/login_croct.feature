@@ -60,4 +60,3 @@ Given that the user has an account in the system
     And I should be signed in 
     When I return next time
     Then I should be signed in
-    
